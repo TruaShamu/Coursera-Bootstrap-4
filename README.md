@@ -1,4 +1,4 @@
-Alright, this repo should be done. Yay!
+
 ## Coursera-Bootstrap-4
 
 My repo for the assigments from Coursera course: [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4/home/welcome)
